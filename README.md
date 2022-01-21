@@ -1,3 +1,3 @@
 # ToDolist-1
 
-First JavaScript project
+This is my first JavaScript project before I used Github.
